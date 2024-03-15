@@ -3,4 +3,4 @@ streamlit
 pandas
 numpy
 pgmpy
-from pgmpy.inference import VariableElimination
+
